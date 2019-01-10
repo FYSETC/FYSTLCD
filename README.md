@@ -2,7 +2,7 @@
 
 ## 1.wiring diagram
 
-![1547105450498](images\1547105450498.png)
+![1547105450498](\images\1547105450498.png)
 
 As you can see, this is a serial screen, the hardware is connected to F6 by serial port 2.
 On the F6, there are two interfaces that can be connected to the touch screen. By default, the FPC connector is used.
