@@ -46,5 +46,5 @@ The screen of the shipment we have burned the firmware, if you want to make some
 We created the UI using Adobe xDesign, and convert each one pic into a 24-bit BMP image，Import these images into the IDE of the screen,  and write the screen firmware .
 Inside the screen firmware on github, you can see these .bmp images. If you want to change the color, you only need to replace these images.
 
-the .XD file slao on the github：
+the .XD file slao on the github：https://github.com/FYSETC/FYSTLCD/blob/master/FYSETC_48272_181210.xd
 
