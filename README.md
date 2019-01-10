@@ -2,20 +2,20 @@
 
 ## 1.wiring diagram
 
-![1547105450498](\images\1547105450498.png)
+![1547105450498](images/1547105450498.png)
 
 As you can see, this is a serial screen, the hardware is connected to F6 by serial port 2.
 On the F6, there are two interfaces that can be connected to the touch screen. By default, the FPC connector is used.
 
-![1547106602098](images\1547106602098.png)
+![1547106602098](images/1547106602098.png)
 
 note：If you want to connect via J1, please note that the TX and RX of the serial port need to be crossed.
 
-![1547107811426](images\1547107811426.png)
+![1547107811426](images/1547107811426.png)
 
 The screen does not have an SD card socket for printing, so we have gave an SD card module for free.
 
-![1547107139417](images\1547107139417.png)
+![1547107139417](images/1547107139417.png)
 
 wiring diagram:
 
