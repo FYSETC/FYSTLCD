@@ -1,5 +1,9 @@
 # Step by step setup the touch screen on F6
 
+
+## note：The marlin firmware we provide has 2130 configuration. If you don't use 2130, please change the firmware configuration, otherwise the screen will not be displayed because marlin detected a 2130 error.
+
+
 ## 1.wiring diagram
 
 ![1547105450498](images/1547105450498.png)
