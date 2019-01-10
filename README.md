@@ -48,3 +48,6 @@ Inside the screen firmware on github, you can see these .bmp images. If you want
 
 the .XD file slao on the github：https://github.com/FYSETC/FYSTLCD/blob/master/FYSETC_48272_181210.xd
 
+## 4.Uploade screen firmware to screen
+
+To be done!
