@@ -54,4 +54,20 @@ the .XD file slao on the github：https://github.com/FYSETC/FYSTLCD/blob/master/
 
 ## 4.Uploade screen firmware to screen
 
-To be done!
+Step 1：Format the TF card and copy files
+run windows command system as administrator, then enter：
+format g:/fs:fat32/a:4096/q
+Note: 
+g is the disk number of your TF card，and the card size must be 1-16G.
+Step 2：Flash the firmware to TF card
+Insert the TF card into the card socket (back side of the screen) ,and then power on the screen. 
+Wait for the blue screen and appear on the first line of the screen “SD Card Process... END !” it’s may take 1-2minutes.
+Turn off the power and re-power the screen Wait for the boot screen，it’s may take 1-5s.
+
+Youtube video：
+https://www.youtube.com/watch?v=Ez6qQsYpgLg&feature=youtu.be
+
+## 5.where to buy
+
+Aliexpress：
+https://www.aliexpress.com/item/FYSETC-F6-V1-3-ALL-in-one-Mainboard-4-3-Touch-Screen-6pcs-TMC2100-TMC2208-TMC2130/32961471929.html?spm=2114.search0104.3.1.65284076dt500v&ws_ab_test=searchweb0_0,searchweb201602_1_10065_10068_319_10891_317_10548_10696_453_10084_454_10083_10618_431_10307_10821_10301_537_536_10059_10884_10887_100031_321_322_10103,searchweb201603_53,ppcSwitch_0&algo_expid=be5a660d-c34d-41d2-b66f-3532763249dc-0&algo_pvid=be5a660d-c34d-41d2-b66f-3532763249dc
