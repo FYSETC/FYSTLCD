@@ -1,4 +1,4 @@
-# update record
+# Update record
 
 rearrange filelist and info text addr to avoid text overlap,need to update FYSTLCD firmware
 
