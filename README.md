@@ -1,3 +1,9 @@
+# update record
+
+rearrange filelist and info text addr to avoid text overlap,need to update FYSTLCD firmware
+
+
+
 # Step by step setup the touch screen on F6
 
 
